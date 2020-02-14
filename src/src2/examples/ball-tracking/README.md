@@ -3,7 +3,7 @@
 ## Locally Installed OpenCV
 
 Right now, this program runs with the local installation of OpenCV. You can run Python programs directly
-from the terminal, as specified in each  program. You must be inside the `src` directory.
+from the terminal, as specified in a  program. You must be inside the `src` directory.
 
 
 ## Docker 
