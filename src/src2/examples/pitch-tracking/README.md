@@ -25,5 +25,5 @@ First run:
 
 To run the *ball tracking* program in a docker container, you must first download `imutils` package, then you can run the following command.
    
-`docker run --rm -v $(pwd)/src:/root opencv python pitch_tracking.py
+`docker run --rm -v $(pwd)/src:/root opencv python pitch_tracker.py
 
